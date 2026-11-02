@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "folia-guide": {
+      "command": "node",
+      "args": [
+        "mcp-server.mjs"
+      ]
+    }
+  }
+}
